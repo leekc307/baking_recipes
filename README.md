@@ -10,5 +10,6 @@ Welcome to the cookie recipes.
 * [Bagels](./food/bread/bagels.md)
 
 ### Desserts
-* [Cheesecake](./food/desserts/cakes/cheesecake.md)
+* [Cheesecake](./food/desserts/cheesecake.md)
+* [chocolate chip cookies](./food/desserts/chocolate-chip-cookies.md)
 
