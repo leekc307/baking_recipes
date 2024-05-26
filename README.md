@@ -1,4 +1,4 @@
-# cookie_recipes
+# Cookie_recipes
 
 Welcome to the cookie recipes.
 
