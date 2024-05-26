@@ -29,6 +29,3 @@
 13. You're so close: slip them in the oven and reduce the heat to 450° F. Bake for 8 minutes, rotate the sheet, and bake 8 to 12 minutes more, until the bagels are golden brown. Feel free to check the bottom of the bagels as they cook -- if they're getting too brown, just stick another baking sheet underneath them (a baking stone works, too).
 14. Pull them from the oven, and wait an excruciating 30 minutes before you eat them.
 
-## Reference
-
-* <http://food52.com/recipes/print/22934>
