@@ -2,7 +2,7 @@
 
 Welcome to the cookie recipes.
 
-[Breads](#breads) &middot; [Desserts](#desserts) &middot; [Snacks](#snacks) &middot;
+[Breads](#breads) &middot; [Desserts](#desserts) &middot; 
 
 ## Contents
 
