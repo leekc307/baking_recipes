@@ -1,5 +1,6 @@
 
 # Bagels
+![Bagels](/images/bagels.jpg)
 
 ## Ingredients
 
