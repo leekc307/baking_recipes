@@ -1,7 +1,6 @@
 
 # Tiramisu
-
-I learned this recipe at a small private cooking school in the Amalfi Coast in Italy.
+![Tiramisu](../../images/tiramisu.jpg)
 
 ## Ingredients
 
