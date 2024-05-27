@@ -1,4 +1,5 @@
 # Cheesecake
+![Bagels](../../images/bagels.jpg)
 
 ## Ingredients
 
