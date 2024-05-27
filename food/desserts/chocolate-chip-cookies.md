@@ -1,5 +1,6 @@
 
 # Perfect Chocolate Chip Cookies
+![Chocolate Chip Cookies](../../images/chocolate-chip-cookies.jpg)
 
 ## Ingredients
 
