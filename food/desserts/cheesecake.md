@@ -1,5 +1,5 @@
 # Cheesecake
-![Bagels](../../images/bagels.jpg)
+![Cheesecake](../../images/cheesecake.jpg)
 
 ## Ingredients
 
