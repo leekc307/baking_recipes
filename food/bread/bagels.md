@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<div markdown="1">
 # Bagels
 ![Bagels](../../images/bagels.jpg)
 
@@ -31,5 +28,3 @@
 12. And, the fun part: sprinkle your bagels with whatever topping you want. To help your toppings stick, use an egg white wash, but the residual water from the poach should do the trick, too. Seeds are great, as is big flake or rock salt.
 13. You're so close: slip them in the oven and reduce the heat to 450° F. Bake for 8 minutes, rotate the sheet, and bake 8 to 12 minutes more, until the bagels are golden brown. Feel free to check the bottom of the bagels as they cook -- if they're getting too brown, just stick another baking sheet underneath them (a baking stone works, too).
 14. Pull them from the oven, and wait an excruciating 30 minutes before you eat them.
-</div>
-</html>
