@@ -1,6 +1,6 @@
-# Cookie_recipes
+# Baking Recipes
 
-Welcome to the cookie recipes.
+Welcome to the baking recipes.
 
 [Breads](#breads) &middot; [Desserts](#desserts) &middot; 
 
