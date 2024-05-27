@@ -11,5 +11,7 @@ Welcome to the baking recipes.
 
 ### Desserts
 * [Cheesecake](./food/desserts/cheesecake.md)
-* [chocolate chip cookies](./food/desserts/chocolate-chip-cookies.md)
+* [Chocolate chip cookies](./food/desserts/chocolate-chip-cookies.md)
+* [Tiramisu](./food/desserts/tiramisu.md)
+
 
