@@ -1,15 +1,15 @@
 
 body {
-    color: #F6D193;
+    color: #6fa8dc;
     margin: 0;
     font-family: "Fraunces", monospace;
-    background: #C76B0F;
+    background: #6fa8dc;
     font-size: 1.5em;
 }
 #header {
     padding: 1em;
     background-color: #DCEEF2;
-    background-image: linear-gradient(to bottom right, #DCEEF2, #A25404);
+    background-image: linear-gradient(to bottom right, #DCEEF2, #3d85c6);
     display:flex;
     justify-content: center;
     align-items: center;
