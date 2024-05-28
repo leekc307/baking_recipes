@@ -8,8 +8,8 @@ body {
 }
 #header {
     padding: 1em;
-    background-color: #C76B0F;
-    background-image: linear-gradient(to bottom right, #C76B0F, #A25404);
+    background-color: #DCEEF2;
+    background-image: linear-gradient(to bottom right, #DCEEF2, #A25404);
     display:flex;
     justify-content: center;
     align-items: center;
